@@ -1,0 +1,8 @@
+this is a test file for hackathon project. 
+
+It will be fun in a way we do things as JSON files.
+
+
+
+i like to use VIM to edit whatever files needed. 
+
