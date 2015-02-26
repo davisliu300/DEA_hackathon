@@ -1,15 +1,12 @@
 // DEA javascript file
 
-var team = "DEA";
 
 
 
-console.log(movies.feed.entry[0].summary);
-
-var firstTenObj = movies.feed;
-for(var i = 0; i < firstTenObj.entry.length; i++){
-	console.log(firstTenObj.entry[i]);
-}
+// var firstTenObj = movies.feed;
+// for(var i = 0; i < firstTenObj.entry.length; i++){
+// 	console.log(firstTenObj.entry[i]);
+// }
 
 
 
