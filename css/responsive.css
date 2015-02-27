@@ -1,0 +1,26 @@
+@media only screen and (min-device-width: 350px) and (max-width: 700px){
+	
+	.new_row {
+		margin-top: 8%;
+		margin-left: 2%;
+	}
+
+	.circles {
+		width: 65px;
+		height: 65px;
+		margin-left: 1%;
+
+	}
+
+
+	section {
+		width: 40%;
+	}
+}
+
+@media only screen and (min-device-width: 701px) {
+	section {
+		width: 40%;
+		margin-left: 10%;
+	}
+}
