@@ -62,6 +62,7 @@ section {
 	min-height: 400px;
 	display: table-cell;
     transform: scale(0);
+    opacity: 0;
     transition: .5s;
     text-shadow: 1px -2px #000;
 }
@@ -143,5 +144,6 @@ body{
 }
 .appear{
     transform: scale(1);
+    opacity: 1;
 }
 
