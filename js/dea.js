@@ -23,7 +23,6 @@ $('section').html(
 "Genre: "+ moviesList.category.attributes.label + "<br>" +
 "Release Date: "+ moviesList["im:releaseDate"].attributes.label+ "<br/>"+ 
 "Summary: " + moviesList.summary.label);		
-});
-}
+
 
 
