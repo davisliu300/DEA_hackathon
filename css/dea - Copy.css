@@ -1,0 +1,44 @@
+body{
+
+}
+
+header{
+	border: 1px solid black;
+
+}
+
+main{
+	border: 1px solid black;
+	height: auto;
+}
+
+section{
+	border: 1px solid black;
+	width: 70%;
+	float: right;
+	
+}
+
+aside{
+	border: 1px solid black;
+	width: 25%;
+	float: left;
+}
+footer{
+	border: 1px solid black;
+	width: auto;
+	clear: both;
+
+}
+
+.protoMovieTitleRed{
+	color: red;
+}
+
+.protoMovieTitleBlack{
+	color: black;
+}
+
+.protoMovieTitleGreen{
+	color: green;
+}
