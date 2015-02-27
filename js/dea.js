@@ -1,4 +1,5 @@
-//DEA javascript file
+// DEA javascript file
+
 
 var team = "DEA";
 
@@ -27,5 +28,6 @@ $('section').append("<img src ='"+ moviesList['im:image'][0].label+"'>");
 
 });
 }
+
 
 
